@@ -1,8 +1,7 @@
-import ExpenseComponent from './components';
+import ExpenseComponent from "./components";
+
 function App() {
-  return (
-    <ExpenseComponent/>
-  );
+  return <ExpenseComponent/>;
 }
 
 export default App;
